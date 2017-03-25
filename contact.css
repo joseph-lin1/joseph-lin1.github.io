@@ -1,0 +1,145 @@
+body {
+  position: relative;
+  color: #777777;
+  background: url("background.png");
+  font-family:arial;
+}
+
+.textbox1{
+	width: 100%;
+	padding: 5px;
+	margin: 5px 0;
+}
+
+hr{
+	margin: 25px 0;
+	color: gray;
+}
+.textbox2 {
+	width: 100%;
+	height: 200px;
+	margin: 5px 0;
+}
+.button {
+	padding: 10px 20px;
+	background: #4aaaa5;
+	font-size: 20px;
+	color: white;
+	border: 1px solid gray;
+	margin-top: 5px;
+}
+/*Nav*/
+.nav{
+	background-color: #fff;
+	border-bottom: 1px solid #dddddd;
+	height: 70px;
+	width: 100%;
+	border-bottom: 1px solid #C4C4C4;
+	float: left;
+}
+.right-nav{
+	margin-right: 130px;
+	padding-top: 26px;
+}
+.header{
+	background color: #ffffff
+    border: 1px solid #cccccc;
+    float: left;
+    font-size: 30px;
+    background: #4aaaa5;
+    color: white;
+    margin-left: 115px;
+    padding: 17px;
+    width: 200px;
+    text-align: center;
+    font-family: georgia;
+}
+.links{
+	text-decoration: none;
+	padding: 15px;
+	color: lightgray;   
+}
+a.links{
+	margin-top: 10px !important;
+}
+.mini-header{
+	color: #4aaaa5;
+	font-family: georgia;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.mini-header2{
+	color: #4aaaa5;
+	font-family: georgia;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+ul li{
+	list-style-type: none;
+	 display: inline-block;
+	 float: right;
+}
+/*Left-Body*/
+.left-body{
+	background: white;
+	float: left;
+	background-color: #ffffff;
+	border: 1px solid #dddddd;
+	width: 650px;
+	margin: 30px;
+	padding: 30px;
+}
+
+
+/*Right-Body*/
+.right-body{
+	background: white;
+	float: left;
+	background-color: #ffffff;
+	border: 1px solid #dddddd;
+	width: 270px;
+	text-align: center;
+	margin: 30px;
+	padding: 30px;
+	line-height: 1.5;
+}
+.icon{
+	width: 80px;
+}
+
+ 
+.footer {
+  right: 0;
+  bottom: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+  width: 100%;
+  border-top: 5px solid #4aaaa5;
+  padding: 20px;
+  background: gray;
+  color: lightgray;
+  float: left;
+}
+
+.container{
+	height: 100%;
+	width: 100%;
+}
+
+.main-content{
+	margin: auto;
+	width: 1200px;
+}
+
+p{
+	line-height: 2;
+}
+.cat-image{
+	width: 45%;
+	height: 45%;
+	float: left;
+	padding: 15px;
+}
